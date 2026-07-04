@@ -66,25 +66,14 @@ The Jupyter Notebook contains the complete implementation, including:
 
 ---
 
-## Technologies
-
-- Python
-- Ultralytics YOLO
-- PyTorch
-- OpenCV
-- Streamlit
-- NumPy
-
----
-
 ## Citation
 
 If you use this repository in your research, please cite the corresponding thesis.
 
 ```
 @thesis{,
-  title={},
-  author={},
+  title={BISINDO-YOLO},
+  author={ssscholastica},
   year={2026}
 }
 ```
